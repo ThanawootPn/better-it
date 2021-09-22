@@ -1,0 +1,24 @@
+.head-ana {
+  font-size: 20px;
+
+  color: antiquewhite;
+}
+
+.chart-control {
+  width: 500px;
+  height: 500px;
+  margin: auto;
+}
+
+.head-analytics {
+  margin: auto;
+  width: 50%;
+  border: 3px solid #3065b4;
+  border-radius: 25px;
+  padding: 10px;
+  text-align: center;
+  font-size: 50px;
+}
+.head-text {
+  color: antiquewhite;
+}
